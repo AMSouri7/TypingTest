@@ -1,0 +1,9 @@
+Typing time: 50 seconds
+Total words: 3
+Wrong words: 0
+Accuracy: 100%
+
+Wrong word list:
+
+Original text:
+my name is
